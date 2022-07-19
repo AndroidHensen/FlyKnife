@@ -1,0 +1,17 @@
+{
+  "__version__": "1.0.1",
+  "general": {
+    "designResolution": {
+      "width": 640,
+      "height": 960
+    }
+  },
+  "physics": {
+    "gravity": {
+      "y": -10,
+      "x": 0,
+      "z": 0
+    },
+    "allowSleep": true
+  }
+}
