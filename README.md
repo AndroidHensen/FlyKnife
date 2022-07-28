@@ -4,7 +4,7 @@
 
 #### 游戏截图
 
-![](https://raw.githubusercontent.com/AndroidHensen/Air/main/show.png)
+![](https://raw.githubusercontent.com/AndroidHensen/FlyKnife/main/show.png)
 
 #### 实现原理
 
